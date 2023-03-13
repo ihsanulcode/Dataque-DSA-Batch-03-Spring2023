@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678721656 source:d:\gits\dataque-dsa-batch-03-spring2023\class-10\operatoroverloading\main.cpp
+	<iostream>
+	"complex.cpp"
+
+1678722432 d:\gits\dataque-dsa-batch-03-spring2023\class-10\operatoroverloading\complex.cpp
+	"complex.h"
+	<iostream>
+
+1678720590 d:\gits\dataque-dsa-batch-03-spring2023\class-10\operatoroverloading\complex.h
+
